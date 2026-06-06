@@ -20,7 +20,7 @@
 
 Full-stack developer in the making. I'm learning to build across platforms and care about clean architecture, thoughtful UX, and code that's a pleasure to maintain.
 
-Currently working on: Coming Soon
+Currently working on: Complex - An AI-powered desktop client that combines three models
 
 ---
 
@@ -47,7 +47,7 @@ Currently working on: Coming Soon
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| Coming More Soon | | |
+| -| -| -|
 
 ---
 
